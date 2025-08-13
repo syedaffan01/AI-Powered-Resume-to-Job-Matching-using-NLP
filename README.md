@@ -51,8 +51,3 @@ path = kagglehub.dataset_download("snehaanbhawal/resume-dataset")
 
 -Integrate with ATS systems for HR automation.
 
-
-##📧 Author
-Syed Shah Rafi Uddin Hussaini
-Email: affan4157@gmail.com
-LinkedIn: https://linkedin.com/in/syedshahrafi
